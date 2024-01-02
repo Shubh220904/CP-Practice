@@ -1,2 +1,2 @@
-# CP_Practice
+# CP-Practice
 Daily Practice problems of Competitive Programming
