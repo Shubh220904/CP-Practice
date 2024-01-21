@@ -1,0 +1,7 @@
+13/1/24
+
+https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/
+https://leetcode.com/problems/minimum-time-to-complete-all-tasks/description/
+
+https://codeforces.com/problemset/problem/544/A
+https://codeforces.com/problemset/problem/1221/C

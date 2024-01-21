@@ -1,0 +1,7 @@
+11/1/24
+
+https://leetcode.com/problems/maximum-product-of-word-lengths/description/
+https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/description/
+
+https://codeforces.com/problemset/problem/1305/B
+https://codeforces.com/problemset/problem/1763/B

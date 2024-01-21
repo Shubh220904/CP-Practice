@@ -1,0 +1,7 @@
+So these are the problems for 12/1/24(Friday)
+Codeforces
+1)https://codeforces.com/problemset/problem/1862/C
+2)https://codeforces.com/problemset/problem/1917/B
+Leetcode:
+3)https://leetcode.com/problems/peak-index-in-a-mountain-array/description/
+4)https://leetcode.com/problems/bulls-and-cows/description/
