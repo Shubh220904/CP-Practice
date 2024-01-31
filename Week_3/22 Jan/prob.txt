@@ -1,0 +1,5 @@
+22/1/24
+https://codeforces.com/problemset/problem/1840/D
+https://www.codechef.com/problems/ADJFLIP?tab=statement
+https://leetcode.com/problems/sliding-window-maximum/description/
+https://leetcode.com/problems/sum-of-subarray-minimums/description/
